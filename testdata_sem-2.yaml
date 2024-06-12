@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru
+address_create: https://test-stand.gb.ru/posts/create
+browser: chrome
+sleep_time: 2
+login: K007
+password: 4bed23525c
+sleep_time_1: 10
